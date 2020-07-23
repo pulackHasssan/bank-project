@@ -1,0 +1,25 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px gray;
+}
+input{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+#transaction-area{
+    display: none;
+}
+
+.deposit, .withdraw, .balance{
+    margin: 0 20px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+ 
